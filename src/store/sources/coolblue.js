@@ -25,6 +25,16 @@ export const Coolblue = {
                 productName: 'AMD Ryzen 5 5600X',
                 modelNumber: '5600X',
                 productUrl: 'https://www.coolblue.nl/product/871396/amd-ryzen-5-5600x.html'
+            },
+            {
+                productName: 'PS5 Disk Edition',
+                modelNumber: 'PS5DISK',
+                productUrl: 'https://www.coolblue.nl/product/865866/playstation-5.html'
+            },
+            {
+                productName: 'PS5 Digital Edition',
+                modelNumber: 'PS5DIGITAL',
+                productUrl: 'https://www.coolblue.nl/product/865867/playstation-5-digital-edition.html'
             }
         ]
     },
