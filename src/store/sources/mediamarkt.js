@@ -22,8 +22,8 @@ export const Mediamarkt = {
                 productUrl: 'https://www.mediamarkt.nl/nl/category/_playstation-5-consoles-766027.html?ga_query=playstation+5'
             },
             {
-                productName: 'Test',
-                modelNumber: 'Test',
+                productName: 'TEST',
+                modelNumber: 'TEST',
                 productUrl: 'https://www.mediamarkt.nl/nl/search.html?query=samsung&searchProfile=onlineshop&channel=mmnlnl'
             },
         ]

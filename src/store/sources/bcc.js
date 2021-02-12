@@ -12,8 +12,8 @@ export const BCC = {
                 productUrl: 'https://www.bcc.nl/gaming/playstation/playstation-5-console'
             },
             {
-                productName: 'Test',
-                modelNumber: 'Test',
+                productName: 'TEST',
+                modelNumber: 'TEST',
                 productUrl: 'https://www.bcc.nl/gaming/playstation'
             },
         ]
